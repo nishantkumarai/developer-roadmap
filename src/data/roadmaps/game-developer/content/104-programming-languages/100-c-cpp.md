@@ -5,3 +5,5 @@
 On the other hand, **C++** follows the paradigm of both procedural and object-oriented programming. It was developed as an extension to C to add the concept of "classes" - a core feature of object-oriented programming. C++ enhances C by introducing new features like function overloading, exception handling, and templates. 
 
 Both of these languages heavily influence modern game development, where they often serve as the backend for major game engines like Unreal. Game developers use these languages for tasks related to rendering graphics, compiling game logic, and optimizing performance.
+
+[C++ Programming Course - Beginner to Advanced](https://youtu.be/8jLOx1hD3_o?si=ODY2b0n6aby5ujpX)
